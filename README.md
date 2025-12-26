@@ -45,3 +45,11 @@ This project was developed as part of the **MVA Master's program** (Robotics cou
 If you find this code or work useful in your research, please cite the following:
 
 ```bibtex
+@software{Pham_SwiftPolicy_Accelerated_Visuomotor_2025,
+author = {Pham, Duc-Hai and Hammani, Ianis},
+month = jan,
+title = {{SwiftPolicy: Accelerated Visuomotor Policies via Score Distillation Sampling}},
+url = {https://github.com/yourusername/swiftpolicy},
+version = {1.0.0},
+year = {2025}
+}
