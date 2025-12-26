@@ -13,10 +13,7 @@ The full project report is available as a PDF: [MVA_Robots_25.pdf](assets/MVA_Ro
 
 ### 🎥 Demo Video
 
-<video width="100%" controls>
-  <source src="assets/download.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Teacher vs Student policy running within the same time constraint](assets/download.gif)
 
 *Teacher vs Student policy running within the same time constraint*
 
@@ -48,10 +45,3 @@ This project was developed as part of the **MVA Master's program** (Robotics cou
 If you find this code or work useful in your research, please cite the following:
 
 ```bibtex
-@techreport{pham2025swiftpolicy,
-  title={SwiftPolicy: Accelerated Visuomotor Policies via Score Distillation Sampling},
-  author={Pham, Duc-Hai and Hammani, Ianis},
-  institution={ENS Paris-Saclay},
-  year={2025},
-  note={MVA Robotics Project Report}
-}
