@@ -6,6 +6,19 @@ Diffusion Policy (DP) has established a new state-of-the-art in robotic manipula
 
 **SwiftPolicy** is a surprisingly simple distillation scheme to accelerate Diffusion Policy -> Achieving a **50x reduction** in neural network evaluations (NFE) 
 
+## 📚 Resources
+
+### 📄 Paper
+The full project report is available as a PDF: [MVA_Robots_25.pdf](assets/MVA_Robots_25.pdf)
+
+### 🎥 Demo Video
+
+<video width="100%" controls>
+  <source src="assets/download.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+*Teacher vs Student policy running within the same time constraint*
 
 ## 🚀 Quick Start
 
